@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lightstream-theme/static/css/main.d1b05096.chunk.css",
+    "main.js": "/lightstream-theme/static/js/main.191d2540.chunk.js",
+    "main.js.map": "/lightstream-theme/static/js/main.191d2540.chunk.js.map",
+    "runtime-main.js": "/lightstream-theme/static/js/runtime-main.a7808b13.js",
+    "runtime-main.js.map": "/lightstream-theme/static/js/runtime-main.a7808b13.js.map",
+    "static/js/2.ae225762.chunk.js": "/lightstream-theme/static/js/2.ae225762.chunk.js",
+    "static/js/2.ae225762.chunk.js.map": "/lightstream-theme/static/js/2.ae225762.chunk.js.map",
+    "index.html": "/lightstream-theme/index.html",
+    "precache-manifest.0e52442e36b8878521c0c1c09b14fe39.js": "/lightstream-theme/precache-manifest.0e52442e36b8878521c0c1c09b14fe39.js",
+    "service-worker.js": "/lightstream-theme/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/lightstream-theme/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ae225762.chunk.js.LICENSE.txt": "/lightstream-theme/static/js/2.ae225762.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lightstream-theme/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7808b13.js",
+    "static/js/2.ae225762.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.191d2540.chunk.js"
+  ]
+}
