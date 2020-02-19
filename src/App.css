@@ -33,6 +33,17 @@ a {
   color: white;
 }
 
+.themes {
+  text-align: center;
+  background: rgba(66, 64, 64, 0.7);
+  border-radius: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 30px;
+}
+
 ::-webkit-scrollbar {
   width: 2px;
   scrollbar-color: transparent;
@@ -49,7 +60,25 @@ a {
   padding-right: 30px;
   padding-top: 30px;
   padding-bottom: 30px;
+  margin-bottom: 30px;
   font-size: 25px;
+  box-shadow: 0px 10px 25px black;
+}
+
+.projects {
+  background: rgba(24, 24, 24, 0.90);
+  border-radius: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  font-size: 25px;
+  box-shadow: 0px 10px 25px black;
+}
+
+.projects:hover {
+  background: rgba(24, 24, 24, 0.50);
 }
 
 /* For 13 inch Desktop: */
@@ -649,7 +678,8 @@ a {
   padding-right: 20px;
   border-radius: 20px;
   background: rgba(66, 64, 64, 0.95);
-  margin:60px 10px 30px 10px !important;
+  margin:60px 10px 50px 10px !important;
+  box-shadow: 0px 20px 25px black;
 }
 
 /* .skills {
@@ -664,6 +694,7 @@ a {
   border:0px solid #9a9b9c;
   display: flex;
   margin:30px 0px 30px 0px;
+  box-shadow: 0px 20px 25px black;
 }
 
 .contact-text {
@@ -676,148 +707,4 @@ a {
 .active {
   font-weight: bolder;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .skills ul li {
-  list-style-type:none;
-  margin:30px;
-} */
-
-/* [class*="col-"] {
-  float: left;
-  padding: 15px;
-} */
-
-/*Styles commented out may have been defaults*/
-/* @media all and (max-width: 450px) {
-  :root {
-    --fontsize-nav:1rem;
-    --sidebar-flex:0;
-    --typing-font:2rem;
-  }
-  .App
-  {
-    flex-direction: column;
-  }
-  .sidebar
-  {
-    padding: px;
-    background: rgb(238,103,143);
-    background: linear-gradient(90deg, rgba(238,103,143,1) 50%, rgba(132,124,252,1) 80%);
-  }
-  .condiv
-  {
-    padding: 50px ;
-  }
-  nav ul
-  {
-    display: flex;
-  }
-  nav ul li
-  {
-    margin: 10px;
-  }
-  .social
-  {
-    left:0;
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
-    bottom: 30px;
-  }
-  .social i
-  {
-    padding-right: 0px;
-  }
-} */
-
-/*Styles commented out may have been default*/
-/* @media only screen and (max-height: 569px) {
-.social
-  {
-    left:0;
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
-    top: 5px;
-    bottom: 30px;
-  }
-  .social i
-  {
-    padding-right: 0px;
-  }
-} */
-
-
-
-
-
-
-
-
-
-
-/* @media only screen and (max-height: 530px) {
-  .typingeffect {
-  font-size: 40px;
-  color: white;
-  margin-bottom: 30px;
-  }
-}
-
-@media only screen and (max-height: 490px) {
-  .typingeffect {
-  font-size: 30px;
-  color: white;
-  margin-bottom: 30px;
-  }
-} */
-
-
-/* @media only screen and (max-height: 750px) {
-  .profilepic {
-  border-radius: 50%;
-  border: solid grey;
-  width: 300px;
-  margin: 30px;
-  }
-}
-
-@media only screen and (max-height: 630px) {
-  .profilepic {
-  border-radius: 50%;
-  border: solid grey;
-  width: 200px;
-  margin: 30px;
-  }
-}
-
-@media only screen and (max-height: 530px) {
-  .profilepic {
-  border-radius: 50%;
-  border: solid grey;
-  width: 150px;
-  margin: 30px;
-  }
-}
-
-@media only screen and (max-height: 430px) {
-  .profilepic {
-  border-radius: 50%;
-  border: solid grey;
-  width: 150px;
-  margin: 30px;
-  }
-} */
 
