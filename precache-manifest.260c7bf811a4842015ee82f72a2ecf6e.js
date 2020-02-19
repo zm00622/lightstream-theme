@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e22149456fcfb04af8d57d902191bb6f",
+    "revision": "936bea979a7602c8aae0863f3943a703",
     "url": "/lightstream-theme/index.html"
   },
   {
-    "revision": "3958f9fbc8f68373cff6",
+    "revision": "1cb02ae099339a640b74",
     "url": "/lightstream-theme/static/css/main.7149520d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lightstream-theme/static/js/2.f847efd3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3958f9fbc8f68373cff6",
-    "url": "/lightstream-theme/static/js/main.2d5b0086.chunk.js"
+    "revision": "1cb02ae099339a640b74",
+    "url": "/lightstream-theme/static/js/main.aebde545.chunk.js"
   },
   {
     "revision": "e12ec120083f5b613390",
