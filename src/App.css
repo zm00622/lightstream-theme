@@ -87,7 +87,7 @@ a {
   display: flex;
   width: 100%;
   height: 100vh;
-  background-image: url('./img/lightstream.png');
+  background-image: url('./img/lightstream-theme.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -315,6 +315,7 @@ a {
   /* Social Icons */
   .col-social {
     padding-left: 25px;
+    padding-right: 25px;
     margin-left: 0px;
     background: rgba(66, 64, 64, 0.7);
     margin-left: 15px;
@@ -326,7 +327,8 @@ a {
   .col-social i {
     font-size: 40px;
     color: #9a9b9c;
-    padding: 5%;
+    display: flex;
+    padding: 10%;
     /* Center and wrap Icons */
     /* display: flex;
     margin: auto;
@@ -418,6 +420,7 @@ a {
   /* Social Icons */
   .col-social {
     padding-left: 25px;
+    padding-right: 25px;
     margin-left: 0px;
     background: rgba(66, 64, 64, 0.8);
     margin-top: 5%;
@@ -428,6 +431,8 @@ a {
   .col-social i {
     font-size: 25px;
     color: #9a9b9c;
+    display: flex;
+    padding: 10%;
   }
     
   .col-social i:hover {
@@ -517,6 +522,7 @@ a {
   /* Social Icons */
   .col-social {
     padding-left: 25px;
+    padding-right: 25px;
     margin-left: 0px;
     background: rgba(66, 64, 64, 0.8);
     margin-left: 15px;
@@ -528,7 +534,9 @@ a {
   .col-social i {
     font-size: 25px;
     color: #9a9b9c;
-    padding: 5%;
+    display: flex;
+    padding: 10%;
+    /* padding: 5%; */
     /* Center and wrap Icons */
     /* display: flex;
     margin: auto;
@@ -631,6 +639,7 @@ a {
   /* Social Icons */
   .col-social {
     padding-left: 25px;
+    padding-right: 25px;
     margin-left: 0px;
     background: rgba(66, 64, 64, 0.8);
     margin-top: 5%;
@@ -641,7 +650,9 @@ a {
   .col-social i {
     font-size: 25px;
     color: #9a9b9c;
-    padding: 5%;
+    display: flex;
+    padding: 10%;
+    /* padding: 5%; */
     /* Center and wrap Icons */
     /* display: flex;
     margin: auto;
@@ -682,18 +693,17 @@ a {
   box-shadow: 0px 20px 25px black;
 }
 
-/* .skills {
-  margin: 60px 10px 30px 10px;
-} */
 
 .widecard {
   padding-left: 20px;
   padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   border-radius: 20px;
   background: rgba(24, 24, 24, 0.90);
   border:0px solid #9a9b9c;
   display: flex;
-  margin:30px 0px 30px 0px;
+  margin:20px 0px 20px 0px;
   box-shadow: 0px 20px 25px black;
 }
 
@@ -707,4 +717,3 @@ a {
 .active {
   font-weight: bolder;
 }
-
