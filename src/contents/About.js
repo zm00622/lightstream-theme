@@ -46,7 +46,7 @@ class About extends Component {
             zarymanning@gmail.com
             <br></br>
             <br></br>
-            (912) 276-0290
+            (912) 574-0033
             <br></br>
             <br></br>
             I would love to speak with you,
